@@ -1,0 +1,48 @@
+/* font-family: 'Dela Gothic One', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container {
+    background-color: #CACACA;
+}
+.banner-column {
+    background-color: #8d8d8d;
+}
+.navber-container {
+ background-color: #262B37;
+ 
+}
+.about-container  {
+    background-color: #0cc;
+}
+.education-container{
+    background-color: #EEEEEE;
+}
+.bg-redtype {
+    background-color: burlywood;
+}
+.redtype-color {
+    color: chocolate;
+}
+.circle {
+    background-color: #ac7016;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container {
+    background-color: #1f8fa3;
+
+}
+.from-container {
+    background-color: #0c6372;
+    
+
+}
+.footer-container {
+    background-color: #81d6e6;
+    
+
+}
